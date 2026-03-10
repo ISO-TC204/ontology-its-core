@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://isotc204.org/ontology-its-core/v0.0.2-alpha.1/</loc>
+         <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-core/v0.0.2-alpha.1/ITSClass/</loc>
+         <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-core/v0.0.2-alpha.1/itsCore/</loc>
+         <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-core/v0.0.2-alpha.1/classes/itsCore__ITSClass/</loc>
+         <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-core/v0.0.2-alpha.1/classes/itsCore__ITSPattern/</loc>
+         <lastmod>2026-03-10</lastmod>
+    </url>
+</urlset>
