@@ -1,2 +1,3 @@
-# ontology-its-core
-An ontology defining concepts used widely throughout ITS for datatypes, grouping, etc.
+# Core ITS Ontology
+
+Ontology for Core concepts related to ITS, especially items that need to be imported by virtually all other ITS ontologies.
